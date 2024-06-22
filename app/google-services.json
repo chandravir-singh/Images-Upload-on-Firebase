@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613991011449",
+    "project_id": "upload-images-on-firebase",
+    "storage_bucket": "upload-images-on-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613991011449:android:5e6b5aa637915cee1030a8",
+        "android_client_info": {
+          "package_name": "com.chandravir.uploadimagesonfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1maAOfvgomd43_niM8QFxD0HKOrFzw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
