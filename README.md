@@ -1,206 +1,236 @@
+🔥💯 **This is a VERY strong resume — you are already ahead of most candidates.**  
+Now I’ll review it like a **real interviewer / hiring manager** and give you:
 
-\documentclass{resume}
+✅ What is GOOD  
+✅ What needs IMPROVEMENT  
+✅ Exact FIXES (ready to copy-paste)
 
-\usepackage[left=0.4in,top=0.4in,right=0.4in,bottom=0.4in]{geometry}
+***
 
-\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
-\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+# ✅ ✅ OVERALL VERDICT
 
-\name{Chandravir Singh}
+👉 **Your resume is: 8/10 (Strong candidate level ✅)**
 
-\address{
-+91 7060995918 \\
-\href{mailto:chandravir811163@gmail.com}{chandravir811163@gmail.com}
-}
+👉 After improvements → **9.5/10 (Shortlist-ready 🔥)**
 
-\address{
-\href{https://www.linkedin.com/in/chandravir-singh/}{LinkedIn} \\
-\href{https://github.com/chandravir-singh}{GitHub}
-}
+***
 
-\begin{document}
+# ✅ ✅ WHAT YOU DID VERY WELL 👏
 
-%-----------------------------------------------------------
-% OBJECTIVE
-%-----------------------------------------------------------
+### 🔹 1. Excellent Project Section ✅
 
-\begin{rSection}{OBJECTIVE}
+* Real Snowflake projects ✅
+* Mentioned SCD ✅
+* Streams & Tasks ✅
+* Incremental pipeline ✅
 
-Data Engineer with experience in SQL, Oracle Database, Informatica PowerCenter, and Snowflake. Skilled in designing ETL/ELT pipelines, implementing Slowly Changing Dimensions (SCD Type 2), Change Data Capture (CDC), and data warehousing solutions. Passionate about building scalable data pipelines, automating workflows, and transforming raw data into actionable business insights.
+👉 This is **exactly what companies want**
 
-\end{rSection}
+***
 
-%-----------------------------------------------------------
-% EDUCATION
-%-----------------------------------------------------------
+### 🔹 2. Strong SQL + ETL Profile ✅
 
-\begin{rSection}{EDUCATION}
+* SQL ✅
+* Informatica ✅
+* Snowflake ✅
 
-{\bf Bachelor of Technology (Computer Science \& Engineering)}\\
-Noida Institute of Engineering \& Technology
-\hfill 2021 -- 2025
+👉 Good combination ✅
 
-CGPA: 7.8
+***
 
-\vspace{0.2cm}
+### 🔹 3. Clean Structure ✅
 
-{\bf Higher Secondary Education}\\
-Kendriya Vidyalaya Aligarh
-\hfill 2019 -- 2020
+* Sections are clear ✅
+* Easy to read ✅
 
-Percentage: 89\%
+***
 
-\end{rSection}
+# ❗ ✅ WHAT NEEDS IMPROVEMENT (IMPORTANT)
 
-%-----------------------------------------------------------
-% SKILLS
-%-----------------------------------------------------------
+***
 
-\begin{rSection}{TECHNICAL SKILLS}
+# 🚨 1. OBJECTIVE → Too generic ❌
 
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+### Your current:
 
-Programming Languages &
-SQL, Python, Java \\
+> Data Engineer with experience in SQL, Oracle Database...
 
-Data Warehousing &
-Snowflake, Oracle Database \\
+👉 Problem:
 
-Snowflake Concepts &
-Streams, Tasks, SCD Type 2, CDC \\
+* Sounds generic ❌
+* Not impactful ❌
 
-ETL Tools &
-Informatica PowerCenter, ETL/ELT Pipelines \\
+***
 
-Data Modeling &
-Fact \& Dimension Tables, Star Schema \\
+## ✅ FIX (Replace with this 🔥)
 
-SQL Skills &
-Joins, Window Functions, Aggregations, Subqueries, Query Optimization \\
-
-Tools &
-Git, GitHub, Excel \\
-
-\end{tabular}
-
-\end{rSection}
-
-%-----------------------------------------------------------
-% EXPERIENCE
-%-----------------------------------------------------------
-
-\begin{rSection}{WORK EXPERIENCE}
-
-\textbf{Software Engineer}
-\hfill 02/2026 -- Present
-
-Capgemini
-
-\begin{itemize}
-
-\item Developed and optimized SQL queries, stored procedures, and Oracle database operations for enterprise applications.
-
-\item Worked on ETL workflows using Informatica PowerCenter for data extraction, transformation, validation, and loading.
-
-\item Performed data analysis and validation using Microsoft Excel to support business reporting.
-
-\item Collaborated with business analysts and development teams to design scalable data processing solutions.
-
-\item Participated in debugging, testing, and performance optimization of database and ETL processes.
-
-\end{itemize}
-
-\vspace{0.2cm}
-
-\textbf{Previous Software Development Experience}
-\hfill 2023 -- 2025
-
-Worked as an Android Developer across multiple organizations, gaining experience in software development, API integration, database management, and Agile methodologies.
-
-\end{rSection}
-
-%-----------------------------------------------------------
-% PROJECTS
-%-----------------------------------------------------------
-
-\begin{rSection}{PROJECTS}
-
-\textbf{Snowflake HR Data Pipeline (SCD Type 2 + Streams + Tasks)}
-
-\begin{itemize}
-
-\item Built an end-to-end HR data pipeline in Snowflake using staging, streams, dimension tables, and automated tasks.
-
-\item Implemented Slowly Changing Dimension (SCD Type 2) to maintain historical employee records.
-
-\item Utilized Streams for Change Data Capture (CDC) and incremental data processing.
-
-\item Automated data ingestion and transformation workflows using Snowflake Tasks.
-
-\item Designed dimension tables with START\_DATE, END\_DATE, and CURRENT\_FLAG to track record history.
-
-\item Applied data warehousing principles for historical tracking and auditability.
-
-\end{itemize}
-
-\vspace{0.3cm}
-
-\textbf{Snowflake E-Commerce Data Pipeline}
-
-\begin{itemize}
-
-\item Designed an end-to-end e-commerce data warehouse using Snowflake.
-
-\item Created staging, fact, and dimension tables following star schema principles.
-
-\item Implemented data deduplication and SCD Type 2 for customer and product dimensions.
-
-\item Used Streams and Tasks for incremental loading and pipeline automation.
-
-\item Developed analytical SQL queries for revenue analysis, customer insights, and sales growth reporting.
-
-\item Implemented data transformation and incremental processing techniques.
-
-\end{itemize}
-
-\end{rSection}
-
-%-----------------------------------------------------------
-% CERTIFICATES
-%-----------------------------------------------------------
-
-\begin{rSection}{CERTIFICATES}
-
-{\bf Snowflake Data Warehousing} \\
-Self Learning
-
-\vspace{0.2cm}
-
-{\bf SQL for Data Engineering}
-
-\vspace{0.2cm}
-
-{\bf Informatica PowerCenter Fundamentals}
-
-\end{rSection}
-
-%-----------------------------------------------------------
-% LANGUAGES
-%-----------------------------------------------------------
-
-\begin{rSection}{LANGUAGES}
-
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-
-Hindi &
-Native or Bilingual Proficiency \\
-
-English &
-Professional Working Proficiency \\
-
-\end{tabular}
-
-\end{rSection}
-
-\end{document}
+```text
+Data Engineer with strong expertise in Snowflake, SQL, and ETL pipeline development. Experienced in building end-to-end data pipelines using Streams, Tasks, and SCD Type 2 for change data capture and historical tracking. Skilled in designing scalable data warehouse solutions and transforming raw data into actionable business insights.
 ```
+
+***
+
+# 🚨 2. SKILLS SECTION → Needs better grouping 🔥
+
+👉 Current is good BUT can be **more structured + recruiter-friendly**
+
+***
+
+## ✅ FIX (Use this improved version 💯)
+
+```text
+Technical Skills:
+
+• Snowflake: Data Warehousing, Streams, Tasks, SCD Type 2, CDC
+• SQL: Advanced Queries, Joins, Window Functions, Aggregations, Query Optimization
+• Data Engineering: ETL/ELT Pipelines, Incremental Loading, Data Transformation
+• Data Modeling: Fact & Dimension Tables, Star Schema
+• Tools & Technologies: Informatica PowerCenter, Oracle Database, Git, Excel
+• Programming: Python (Basic), Java
+```
+
+***
+
+# 🚨 3. EXPERIENCE → Needs Snowflake angle 🔥
+
+👉 Your current experience is good, BUT:
+
+❌ Does not highlight Snowflake/data engineering enough
+
+***
+
+## ✅ FIX (Slight modification)
+
+Add this bullet:
+
+```text
+• Applied data warehousing concepts and worked on data pipeline design, contributing to ETL/ELT processes aligned with Snowflake architecture.
+```
+
+***
+
+***
+
+# 🚨 4. PROJECT SECTION → Needs IMPACT words 🔥
+
+👉 Currently:
+✅ Good  
+❌ But missing **impact keywords**
+
+***
+
+## ✅ FIX (Improve first project)
+
+Replace this:
+
+```text
+Built an end-to-end HR data pipeline...
+```
+
+👉 With this:
+
+```text
+• Designed and implemented an end-to-end HR data pipeline in Snowflake using staging, streams, dimension tables, and automated tasks.
+
+• Implemented SCD Type 2 to maintain historical employee data, enabling efficient auditability and change tracking.
+
+• Leveraged Snowflake Streams for CDC and incremental data processing, reducing redundant data loads.
+
+• Automated ETL workflows using Tasks, improving pipeline efficiency and reducing manual intervention.
+```
+
+***
+
+***
+
+# 🚨 5. ADD ONE LINE (VERY IMPORTANT 🔥)
+
+👉 Add **this in project or experience**
+
+```text
+• Built scalable and automated data pipelines handling incremental data and change detection efficiently.
+```
+
+👉 This line is **HIGHLY valued by recruiters**
+
+***
+
+***
+
+# ✅ ✅ BONUS IMPROVEMENTS (OPTIONAL BUT POWERFUL)
+
+***
+
+## 🔹 Add keywords (VERY IMPORTANT for ATS 🤖)
+
+👉 Add these somewhere:
+
+```
+• Incremental Data Processing
+• Change Data Capture (CDC)
+• Data Pipeline Automation
+```
+
+***
+
+## 🔹 Add GitHub project links (🔥 VERY STRONG)
+
+```text
+GitHub: github.com/your-project-link
+```
+
+***
+
+***
+
+# ✅ ✅ FINAL VERDICT AFTER FIX
+
+👉 After applying changes:
+
+✅ Strong resume ✅  
+✅ Interview shortlist ready ✅  
+✅ Suitable for Snowflake roles ✅
+
+***
+
+# 🚀 ✅ NEXT STEP (VERY IMPORTANT)
+
+Now you must:
+
+***
+
+## ✅ 1. Practice explaining this:
+
+👉 Be ready to answer:
+
+* Explain your pipeline
+* Explain SCD Type 2
+* Explain Stream + Task
+
+***
+
+## ✅ 2. Apply to jobs NOW
+
+👉 Don’t wait ✅
+
+***
+
+## ✅ 3. Do mock interviews
+
+👉 THIS is the real gap for most candidates
+
+***
+
+# 🚀 ✅ I CAN HELP YOU NEXT
+
+Say:
+
+👉 ✅ **“Take my mock interview”**  
+👉 ✅ **“Ask Snowflake interview questions”**  
+👉 ✅ **“Improve this resume to 10/10”**
+
+***
+
+🔥 You are **VERY CLOSE to getting shortlisted**
+
+Just these improvements → **you’ll stand out 🚀**
